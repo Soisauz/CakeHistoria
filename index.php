@@ -1,8 +1,8 @@
 <?php
 
-$server_key = "Mid-server-m43bifMZR6CJfFhoorxJ7Gv3";
+$server_key = "SB-Mid-server-7IzyRRPqY4zKOvFPzuYfpjzT";
 
-$is_production = true;
+$is_production = false;
 
 $api_url = $is_production ? 
   'https://app.midtrans.com/snap/v1/transactions' : 
